@@ -1,4 +1,3 @@
-# say hi to pixie,your own python virtual assistant
 # ask her what date it is today,
 # or ask her who is spiderman?, i would say it's but whatever
 # you can also ask her for today's weather in your city
